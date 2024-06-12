@@ -1,4 +1,4 @@
-## Hi there 👋
+## ola. me chamo yuri 👋
 
 <!--
 **sky-yu7/sky-yu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
